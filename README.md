@@ -2,15 +2,11 @@
 ![](https://media.licdn.com/dms/image/D5616AQHdgMUpnQRyqg/profile-displaybackgroundimage-shrink_350_1400/0/1703801929693?e=1709164800&v=beta&t=fwtRDudJk_UdqrdJBr-rVPKKS-h3nXLWggbHwODLZzI)
 ### 👋Greetings, Afridi Here
 <hr/>
-🌟 MERN Stack Web Developer | Computer Science Student 👋 <br /> 
-<br/>
- I'm  a driven Computer Science undergrad with a knack for MERN (MongoDB, Express.js, React.js, Node.js) stack development.<br /> With a deep enthusiasm for crafting efficient and user-centric web applications, I've honed my skills through hands-on projects and coursework.
-
- 🚀 Currently expanding my expertise in modern web technologies while pursuing my degree, I thrive on embracing new challenges and leveraging my coding prowess to create seamless, scalable, and visually captivating web experiences. 
-
-📝 Beyond coding, I channel my passion for technology into writing engaging blogs, sharing insights, tips, and experiences from my journey in the world of web development. Through my writing, I aim to inspire and educate others in the tech community. 
-
-🌐 Looking for opportunities to apply my skills, contribute to impactful projects, and collaborate with like-minded professionals in the field of web development. Let's connect and explore how we can innovate together! <br /> Happy Coding
+🌟 My journey into coding began with C programming, where I built a strong foundation in problem-solving and logical thinking. From there, I transitioned to C++, a language that felt intuitive and powerful. Through C++, I mastered Object-Oriented Programming (OOP) and delved into Data Structures and Algorithms (DSA), enhancing my problem-solving skills by tackling challenges on Beecrowd.
+<br /> 
+Next, I ventured into full-stack development, focusing on the MERN stack (React, MongoDB, Express, Node.js). This opened the door to creating dynamic, scalable web applications. Along the way, I expanded my expertise by learning Java, applying OOP principles to build projects, and sharpening my competitive programming skills on Codeforces.
+<br /> 
+Currently, I’m exploring Python and I am confident in working with SQL for database management. My journey reflects my passion for continuous learning and adapting to new technologies to solve real-world problems. <br /> Happy Coding
 
 
 
