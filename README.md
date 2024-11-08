@@ -19,9 +19,9 @@ Happy Coding
 <hr/>
 <br /> 
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **React Projects (MERN / FULL-STACK)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamafridi](https://github.com/iamafridi)
 
