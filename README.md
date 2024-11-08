@@ -8,14 +8,15 @@
 Next, I ventured into full-stack development, focusing on the MERN stack (React, MongoDB, Express, Node.js). This opened the door to creating dynamic, scalable web applications. Along the way, I expanded my expertise by learning Java, applying OOP principles to build projects, and sharpening my competitive programming skills on Codeforces.
 <br /> 
 <br /> 
-Currently, I’m exploring Python and I am confident in working with SQL for database management. My journey reflects my passion for continuous learning and adapting to new technologies to solve real-world problems. <br /> Happy Coding
+Currently, I’m exploring Python and I am confident in working with SQL for database management. My journey reflects my passion for continuous learning and adapting to new technologies to solve real-world problems. <br /> <br /> 
+Happy Coding
 
 
 
 <br /> 
-
+<hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamafridi&label=Profile%20views&color=0e75b6&style=flat" alt="iamafridi" /> </p>
-
+<hr/>
 <br /> 
 
 - 🌱 I’m currently learning **Next.Js**
