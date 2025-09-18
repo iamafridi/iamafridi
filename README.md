@@ -79,13 +79,6 @@ Based in Chittagong, Bangladesh • Open to remote opportunities worldwide
 ![Profile Views](https://komarev.com/ghpvc/?username=iamafridi&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/iamafridi?style=social)](https://github.com/iamafridi)
 <hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamafridi&label=Profile%20views&color=0e75b6&style=flat" alt="iamafridi" /> </p>
-<hr/>
-<br /> 
-
-- 👨‍💻 All of my projects are available at [https://github.com/iamafridi](https://github.com/iamafridi)
-
-- 📝 I regularly write articles on [https://iamafridi.medium.com/](https://iamafridi.medium.com/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
