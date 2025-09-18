@@ -1,6 +1,6 @@
 
 ![](https://media.licdn.com/dms/image/D5616AQHdgMUpnQRyqg/profile-displaybackgroundimage-shrink_350_1400/0/1703801929693?e=1709164800&v=beta&t=fwtRDudJk_UdqrdJBr-rVPKKS-h3nXLWggbHwODLZzI)
-# Hi there, I'm Afridi Akbar Ifty 👋
+# Hi there, I'm Afridi  👋
 
 **Full-Stack (MERN) Developer | Software Engineer | AI Integration Specialist**
 
