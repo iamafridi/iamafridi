@@ -1,45 +1,99 @@
 
 ![](https://media.licdn.com/dms/image/D5616AQHdgMUpnQRyqg/profile-displaybackgroundimage-shrink_350_1400/0/1703801929693?e=1709164800&v=beta&t=fwtRDudJk_UdqrdJBr-rVPKKS-h3nXLWggbHwODLZzI)
-### 👋Greetings, Afridi Here
-<hr/>
-🌟 My journey into coding began with C programming, where I built a strong foundation in problem-solving and logical thinking. From there, I transitioned to C++, a language that felt intuitive and powerful. Through C++, I mastered Object-Oriented Programming (OOP) and delved into Data Structures and Algorithms (DSA), enhancing my problem-solving skills by tackling challenges on Beecrowd.
-<br /> 
-<br /> 
-Next, I ventured into full-stack development, focusing on the MERN stack (React, MongoDB, Express, Node.js). This opened the door to creating dynamic, scalable web applications. Along the way, I expanded my expertise by learning Java, applying OOP principles to build projects, and sharpening my competitive programming skills on Codeforces.
-<br /> 
-<br /> 
-Currently, I’m exploring Python and I am confident in working with SQL for database management. My journey reflects my passion for continuous learning and adapting to new technologies to solve real-world problems. <br /> <br /> 
-Happy Coding
+# Hi there, I'm Afridi Akbar Ifty 👋
 
+**Full-Stack (MERN) Developer | Software Engineer | AI Integration Specialist**
 
+## 🌟 Greetings, Afridi Here
 
-<br /> 
+I'm a passionate Full-Stack Developer from Chittagong, Bangladesh, currently pursuing my B.Sc. in Computer Science and Engineering at East Delta University (expected 2026). I specialize in building scalable, production-ready MERN applications with clean code, modern workflows, and a strong emphasis on delivering business value.
+
+## 🚀 About Me
+
+I'm driven by creating comprehensive web solutions that solve real-world problems. As a Full-Stack (MERN) Developer, I take complete ownership of the development lifecycle—from database design to user interface—ensuring seamless integration and optimal performance at every layer.
+
+**Core Philosophy:** Deliver reliable, scalable full-stack applications with clean architecture, while strategically integrating AI where it enhances user experience and business outcomes.
+
+---
+
+## 💻 Full-Stack (MERN) Development
+
+**🛠️ Tech Stack:**
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Redux Toolkit
+- **Backend:** Node.js, Express.js, MongoDB, MySQL, JWT, Stripe
+- **Tools:** Vercel, Firebase, Three.js, Postman
+
+**🏆 Key Projects:**
+- **[VehiQuest](https://vehi-quest-171.web.app/)** - Real-time vehicle booking with multi-role dashboards
+- **[Elara Travels](https://elara-travels.web.app/)** - Travel booking platform with Stripe integration  
+- **[PHero Arena](https://phero-arena.netlify.app/)** - MERN gaming platform with Firebase auth
+
+---
+
+## ☕ Java & Programming Foundation
+
+My OOP foundation in Java, C++, and C strengthens my full-stack development approach with clean, efficient code.
+
+**Notable Java Projects:**
+- **[Library Management System](https://github.com/iamafridi/project10.mp4)** - Complete library operations with OOP design
+- **[Smart Waste Management](https://github.com/iamafridi/Smart-Waste-Management-System)** - Route optimization algorithms
+- **[Doctor Appointment System](https://github.com/iamafridi/Doctor-Appointment)** - Healthcare scheduling solution
+- **[Mental Support Chatbot](https://github.com/iamafridi/Mental-Support-AI-Chatbot)** - AI-powered support system
+
+---
+
+## 🤖 AI Integration
+
+I enhance full-stack applications with intelligent features, creating AI-powered solutions that solve real-world problems.
+
+**AI Projects:**
+- **[ElaRach](https://github.com/iamafridi/elaRech)** - Multimodal virtual assistant with web interface
+- **[ElaMath](https://github.com/iamafridi/elaMath)** - AI math solver with educational features
+- **[Plant Disease Detection](https://github.com/iamafridi/E-Plant-Plant-Disease-Recognition-Using-Deep-Learning)** - Deep learning model (180k+ samples)
+- **[Elarova Series](https://github.com/iamafridi/elarova-2.0)** - Trained and build for medical institution.
+
+---
+
+## 🎯 What I Bring
+
+As a **Full-Stack Developer**, I deliver end-to-end web solutions with clean code, modern workflows, and strategic AI integration where it adds real value.
+
+**Core Strengths:**
+- Complete MERN stack ownership from database to UI
+- Production-ready applications with performance optimization
+- Responsive, mobile-first design approach
+- Strategic AI integration for enhanced user experiences
+
+---
+
+## 🌐 Let's Connect
+
+Based in Chittagong, Bangladesh • Open to remote opportunities worldwide
+
+**📧 Email:** afridiakbarifty@gmail.com  
+**💼 LinkedIn:** [linkedin.com/in/iamafridi](https://www.linkedin.com/in/iamafridi)  
+**📄 Resume:** [Download Resume](https://your-domain.com/assets/Afridi-Akbar-Ifty-Resume.pdf)
+
+---
+
+*"Building scalable web solutions with clean code and intelligent features that make a difference."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=iamafridi&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/iamafridi?style=social)](https://github.com/iamafridi)
 <hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamafridi&label=Profile%20views&color=0e75b6&style=flat" alt="iamafridi" /> </p>
 <hr/>
 <br /> 
 
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **React Projects (MERN / FULL-STACK)**
-
 - 👨‍💻 All of my projects are available at [https://github.com/iamafridi](https://github.com/iamafridi)
 
 - 📝 I regularly write articles on [https://iamafridi.medium.com/](https://iamafridi.medium.com/)
-
-- 💬 Ask me about **React, MongoDB,Express.Js,Node.Js & JavaScript**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://iamafridi.medium.com/)  
 
 <!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iamafridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamafridi" height="30" width="40" /></a>
- 
-</p>
 
 <br /> 
 <h3 align="left">Languages and Tools:</h3>
