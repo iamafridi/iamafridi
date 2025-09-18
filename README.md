@@ -4,8 +4,6 @@
 
 **Full-Stack (MERN) Developer | Software Engineer | AI Integration Specialist**
 
-## 🌟 Greetings, Afridi Here
-
 I'm a passionate Full-Stack Developer from Chittagong, Bangladesh, currently pursuing my B.Sc. in Computer Science and Engineering at East Delta University (expected 2026). I specialize in building scalable, production-ready MERN applications with clean code, modern workflows, and a strong emphasis on delivering business value.
 
 ## 🚀 About Me
